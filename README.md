@@ -1,10 +1,6 @@
 # Basic_blog_flask
 Simple Blog Application with Flask, Bootstrap, HTML &amp; CSS
 
-Here's a **GitHub README** template for the provided HTML code:
-
----
-
 # Rahul's Blog - A Bootstrap Themed Blog Template
 
 This is a simple blog template powered by **Bootstrap**, **Jinja2** templating, and **FontAwesome** icons. It is designed to display blog posts dynamically with a responsive and clean interface.
